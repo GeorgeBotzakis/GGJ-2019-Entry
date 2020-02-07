@@ -9,13 +9,13 @@ Team Members:
 
 Developers: Stavros Charitos, Georgios Botzakis
 
----Game Description
+# Game Description
 
 A 2D game farm and harvest crops
-
 Sell crops to upgrade your farm.
-
 Be aware of the crow which tries to steal your crops.
-Install Instructions
+
+# Install Instructions
+
 1)Download FarmhouseManagerBuild and run the executable inside to play the game.
 2)Download Farmhouse_prototype to view the code.
